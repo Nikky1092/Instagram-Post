@@ -1,0 +1,57 @@
+body {
+font-family:'Roboto', sans-serif;
+background-color: black;
+}
+.post{
+  margin:10rem;
+  background-color: white;
+  padding:0 0 10rem 0;
+}
+.header {
+  padding:40px;
+  margin-bottom:140px;
+  font-size: 2rem;
+}
+.five,
+.name {
+  float:left;
+}
+.three-dots {
+  float:right;
+}
+.five i{
+  width:30%;
+  font-size: 4em;
+}
+.name h1,
+h2 {
+  width:25%;
+  margin:0;
+  padding-left: 20px;
+}
+.three-dots i{
+  width:40%;
+  font-size: 4em;
+}
+img {
+  width:100%;
+  height:100%;
+}
+.footer{
+  font-size: 3rem;
+  padding:40px;
+}
+.icons i{
+  font-size: 6rem;
+  padding: 10px;
+  margin:0;
+}
+.icons i:nth-child(4){
+float: right;
+}
+.wholiked {
+  text-align: justify;
+}
+.comments {
+  text-align: justify;
+}
